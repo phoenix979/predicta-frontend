@@ -1,4 +1,4 @@
-# My React App
+# Predicta-Med monday app
 
 This is a React application which utilizes the monday.com API to fetch patient data and visualize it using Chart.js. The application displays a line chart of Hemoglobin data over time.
 
